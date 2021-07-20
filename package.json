@@ -1,0 +1,29 @@
+{
+  "name": "bw_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuiVanVu102/BW_Course.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "vubv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuiVanVu102/BW_Course/issues"
+  },
+  "homepage": "https://github.com/BuiVanVu102/BW_Course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
