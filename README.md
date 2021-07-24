@@ -1,141 +1,147 @@
-# BW_Course
-Website là gì ?
+# Website là gì ?
 
-    domain
-    hosting
+- domain
+- hosting
 
-HTML
+# HTML
 
-    Khái niệm
-    Tags
-    inline tags
-    block tags
-    BEM Convention: block__element--modifier
-    SEO
+- Khái niệm
+- Tags
+- inline tags
+- block tags
+- BEM Convention: block\_\_element--modifier
+- SEO
 
-CSS
+# CSS
 
-    Khái niệm
-    flexbox
-    position
-    reset css
-    css grid
-    box-sizing
-    font
-    text
-    image
-    display
-    header header-content header-modal
-    .....
+- Khái niệm
+- flexbox
+- position
+- reset css
+- css grid
+- box-sizing
+- font
+- text
+- image
+- display
+- header header-content header-modal
+- .....
 
-CSS Preprocessor
+# CSS Preprocessor
 
-    Sass: sass styles & scss styles
-    Less
+- Sass: sass styles & `scss styles`
+- Less
 
-CSS Library & CSS Frameworks
+# CSS Library & CSS Frameworks
 
-    Bootstrap
-    Bulma CSS
-    Tailwinds CSS
+- Bootstrap
+- Bulma CSS
+- Tailwinds CSS
 
-Javascript
+# Javascript
 
-    variable
-    scope
-    closure
-    function
-    object
-    array
-    this, prototype, class, api, async
-    es6, modules
-    events, dom...
+- variable
+- scope
+- closure
+- function
+- object
+- array
+- this, prototype, class, api, async
+- es6, modules
+- events, dom...
 
-Javascript Library Framework
+# Javascript Library Framework
 
-    React
-    Vue
-    Angular
+- React
+- Vue
+- Angular
 
-Photoshop Figma
-UI UX
+# Photoshop Figma
 
-    UI: User Interface
-    UX: User Experience
+# UI UX
 
-English
-Git Github
+- UI: User Interface
+- UX: User Experience
 
-    Git: commands, git add, git commit, git push, git rebase, branch
-    Github: Nơi lưu trữ source code
+# English
 
-Soft skills
+# Git Github
 
-    Giao tiếp
-    Deal lương
-    Gửi mail:
-    Ko nên: Em gửi CV -> bị từ chối
-    Nên: Dear Anh/Chị HR của công ty ABC, em có đọc thông tin tuyển dụng của công ty và nay em muốn ứng tuyển, em có gửi CV đính kèm. Em xin cám ơn Thanks and regards,
+- Git: commands, git add, git commit, git push, git rebase, branch
+- Github: Nơi lưu trữ source code
 
-Code editor
+# Soft skills
 
-    VSCode: Extensions: Prettier, live server, auto rename tag...
-    Webstorm
-    Brackets
-    Notepad++
-    Vim
+- Giao tiếp
+- Deal lương
+- Gửi mail:
+- Ko nên: Em gửi CV -> bị từ chối
+- Nên: Dear Anh/Chị HR của công ty ABC, em có đọc thông tin tuyển dụng của công ty và nay em muốn ứng tuyển, em có gửi CV đính kèm. Em xin cám ơn
+  Thanks and regards,
 
-Browser
+# Code editor
 
-    Chrome: Page Ruler Redux, Visbug, EyeDropper Color
-    Safari
-    FireFox
-    Microsoft Edge
-    Coccoc
+- `VSCode`: Extensions: Prettier, live server, auto rename tag...
+- Webstorm
+- Brackets
+- Notepad++
+- Vim
 
-Convert PSD to HTML CSS
-Cách bình thường
+# Browser
 
-    index.html
-    CSS Thuần: reset.css app.css
+- Chrome: Page Ruler Redux, Visbug, EyeDropper Color
+- Safari
+- FireFox
+- Microsoft Edge
+- Coccoc
 
-Cách tốt hơn
+# Convert PSD to HTML CSS
 
-    index.html
-    CSS Preprocessor: Sass -> app.scss
+## Cách bình thường
 
-Cách tốt hơn nữa
+- index.html
+- CSS Thuần: reset.css app.css
 
-    Task runner: Gulp, Grunt
-    index.html about.html contact.html blog.html service.html n.html....
-    Template engine: Pug, handlebars, EJS
+## Cách tốt hơn
 
-Gulp template by evondev
+- index.html
+- CSS Preprocessor: Sass -> app.scss
 
-    Template engine: Pug -> html
-    Tạo Header thành 1 component riêng biệt
-    Styles: Sass -> SCSS Styles way -> Sử dụng 7-1 pattnern
-    SASS -> CSS
+## Cách tốt hơn nữa
 
-Làm việc với React Vue Angular
+- Task runner: Gulp, Grunt
+- index.html about.html contact.html blog.html service.html n.html....
+- Template engine: Pug, handlebars, EJS
 
-    Styles: Sass, styled-components, modules, tailwinds, materialUI, antDesign
+# Gulp template by evondev
 
-Nguồn tài nguyên
+- Template engine: Pug -> html
+- Tạo Header thành 1 component riêng biệt
+- Styles: Sass -> SCSS Styles way -> Sử dụng 7-1 pattnern
+- SASS -> CSS
 
-    Màu sắc: colorhunt, uigradients, coolors, grabient, gradienthunt, flat color....
-    Hình ảnh: Unsplash, freepik, picsum
-    Icons: Fontawesome, ionic icons, flaticon, boxicon
-    Tools: https://bennettfeely.com/clippy/, https://cssgradient.io/
-    Blog: https://evondev.com/, https://ishadeed.com/articles/,
-    Youtube channel: evondev, OnlineTutorials, Dark Code, Brad Traversy, Design Course, Kevin Powell, Fireship, Red Stappler, Ben Award, Freecodecamp, The Net Ninja, Wesbos, Funfun function...
-    Học Photoshop: Thuỳ Uyên Training
-    Học Figma: Mr.Đại.GraphicDesigner
-    Học HTML: W3schools, internetingishard,
-    Luyện CSS: flexboxfroggy, cssgridgarden.com,
-    Javascript: W3schools, MDN(Mozilla Development Network)
-    React: Advanced React and GraphQL(wesbos.com), học React cơ bản ở Udemy (Khoá của Hậu Nguyễn)
-    Khoá học mà mình tự học: The complete Javascript course (Udemy - Jonas), Understanding the weird part(Udemy)
-    Học tiếng Anh: https://www.youtube.com/watch?v=I2DJOj4ChkI&list=PLyKAwYW3XgMM5sqSDCGrOrRgu-l5wDHs1, VOA Special English, English conversation, Khanh Vy Official
-    Phần mềm quản lý công việc: Notion
-    Công cụ lấy mã màu trên Macbook: ColorSlurp
+# Làm việc với React Vue Angular
+
+- Styles: Sass, styled-components, modules, tailwinds, materialUI, antDesign
+
+# Nguồn tài nguyên
+
+- Màu sắc: colorhunt, uigradients, coolors, grabient, gradienthunt, flat color....
+- Hình ảnh: Unsplash, freepik, picsum
+- Icons: Fontawesome, ionic icons, flaticon, boxicon
+- Tools: https://bennettfeely.com/clippy/, https://cssgradient.io/
+- Blog: https://evondev.com/, https://ishadeed.com/articles/,
+- Youtube channel: evondev, OnlineTutorials, Dark Code, Brad Traversy, Design Course, Kevin Powell, Fireship, Red Stappler, Ben Award, Freecodecamp, The Net Ninja, Wesbos, Funfun function...
+- Học Photoshop: Thuỳ Uyên Training
+- Học Figma: Mr.Đại.GraphicDesigner
+- Học HTML: W3schools, internetingishard,
+- Luyện CSS: flexboxfroggy, cssgridgarden.com,
+- Javascript: W3schools, MDN(Mozilla Development Network)
+- React: `Advanced React and GraphQL(wesbos.com)`, học React cơ bản ở Udemy (Khoá của Hậu Nguyễn)
+- Khoá học mà mình tự học: The complete Javascript course (Udemy - Jonas), Understanding the weird part(Udemy)
+- Học tiếng Anh: https://www.youtube.com/watch?v=I2DJOj4ChkI&list=PLyKAwYW3XgMM5sqSDCGrOrRgu-l5wDHs1, VOA Special English, English conversation, Khanh Vy Official
+- Phần mềm quản lý công việc: Notion
+- Công cụ lấy mã màu trên Macbook: ColorSlurp
+
+
+- React, Vue, Angular, Typescript, NodeJS, Bootstrap, Tailwind CSS -> Incoming course or incoming on Youtube
